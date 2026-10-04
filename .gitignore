@@ -1,0 +1,11 @@
+# Hadoop and Pig Logs
+pig*.log
+*.log
+.pigbootup
+.hdfs_storage/
+
+# System / Editor files
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/

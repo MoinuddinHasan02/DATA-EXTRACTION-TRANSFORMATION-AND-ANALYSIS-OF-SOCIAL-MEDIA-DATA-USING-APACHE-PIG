@@ -1,0 +1,10 @@
+post_id,user_id,platform,text,sentiment,hashtags,likes,comments,shares,country
+101,501,Instagram,Great product today,Positive,#tech #AI,250,35,20,India
+102,502,Twitter,Very useful technology,Positive,#AI #tech,180,22,15,USA
+103,503,Instagram,Not happy with the service,Negative,#service,45,18,5,India
+104,501,Facebook,Amazing event today,Positive,#event #fun,320,40,30,India
+105,504,Twitter,The app is slow,Negative,#app #tech,70,25,8,UK
+106,505,Instagram,Loved this new feature,Positive,#app #update,410,55,35,India
+107,506,Facebook,Average experience,Neutral,#review,90,12,6,Canada
+108,502,Twitter,Excellent customer support,Positive,#support,275,30,18,USA
+109,507,Instagram,Terrible delivery experience,Negative,#delivery,35,20,3,India
